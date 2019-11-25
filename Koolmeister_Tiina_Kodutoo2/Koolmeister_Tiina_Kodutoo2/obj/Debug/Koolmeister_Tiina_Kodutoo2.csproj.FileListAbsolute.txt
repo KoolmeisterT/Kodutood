@@ -1,0 +1,10 @@
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.csprojAssemblyReference.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.Form1.resources
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.Properties.Resources.resources
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.csproj.GenerateResource.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.csproj.CoreCompileInputs.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\bin\Debug\Koolmeister_Tiina_Kodutoo2.exe.config
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\bin\Debug\Koolmeister_Tiina_Kodutoo2.exe
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\bin\Debug\Koolmeister_Tiina_Kodutoo2.pdb
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.exe
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\OOP alused - Aleksei Narusberg\Koolmeister_Tiina_Kodutoo2\Koolmeister_Tiina_Kodutoo2\obj\Debug\Koolmeister_Tiina_Kodutoo2.pdb

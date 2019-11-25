@@ -1,0 +1,11 @@
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\bin\Debug\netcoreapp2.1\Kodutoo04.deps.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\bin\Debug\netcoreapp2.1\Kodutoo04.runtimeconfig.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\bin\Debug\netcoreapp2.1\Kodutoo04.runtimeconfig.dev.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\bin\Debug\netcoreapp2.1\Kodutoo04.dll
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\bin\Debug\netcoreapp2.1\Kodutoo04.pdb
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.csprojAssemblyReference.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.csproj.CoreCompileInputs.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.AssemblyInfoInputs.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.AssemblyInfo.cs
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.dll
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutoo04\Kodutoo04\obj\Debug\netcoreapp2.1\Kodutoo04.pdb

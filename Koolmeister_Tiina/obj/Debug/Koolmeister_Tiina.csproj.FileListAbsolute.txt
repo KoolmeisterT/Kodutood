@@ -1,0 +1,12 @@
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.exe.config
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.exe
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.pdb
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.csprojResolveAssemblyReference.cache
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.exe
+C:\Tiina Koolmeister\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.pdb
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.exe.config
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.exe
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\bin\Debug\Koolmeister_Tiina.pdb
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.csprojAssemblyReference.cache
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.exe
+C:\Users\tiina\Documents\Tallinna Polütehnikum\2018-2019\Algoritmid - Aleksei Narusberg\Projekt\Koolmeister_Tiina\obj\Debug\Koolmeister_Tiina.pdb

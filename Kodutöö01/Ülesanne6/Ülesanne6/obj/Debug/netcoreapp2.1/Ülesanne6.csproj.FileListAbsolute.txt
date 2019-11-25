@@ -1,0 +1,11 @@
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\bin\Debug\netcoreapp2.1\Ülesanne6.deps.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\bin\Debug\netcoreapp2.1\Ülesanne6.runtimeconfig.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\bin\Debug\netcoreapp2.1\Ülesanne6.runtimeconfig.dev.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\bin\Debug\netcoreapp2.1\Ülesanne6.dll
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\bin\Debug\netcoreapp2.1\Ülesanne6.pdb
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.csprojAssemblyReference.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.csproj.CoreCompileInputs.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.AssemblyInfoInputs.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.AssemblyInfo.cs
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.dll
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö6\Ülesanne6\Ülesanne6\obj\Debug\netcoreapp2.1\Ülesanne6.pdb

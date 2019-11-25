@@ -1,0 +1,11 @@
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.csprojAssemblyReference.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.csproj.CoreCompileInputs.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.AssemblyInfoInputs.cache
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.AssemblyInfo.cs
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\bin\Debug\netcoreapp2.1\Kodutoo03.deps.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\bin\Debug\netcoreapp2.1\Kodutoo03.runtimeconfig.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\bin\Debug\netcoreapp2.1\Kodutoo03.runtimeconfig.dev.json
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\bin\Debug\netcoreapp2.1\Kodutoo03.dll
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\bin\Debug\netcoreapp2.1\Kodutoo03.pdb
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.dll
+C:\Users\tiina\OneDrive\Documents\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö03\Kodutoo03\Kodutoo03\obj\Debug\netcoreapp2.1\Kodutoo03.pdb

@@ -1,0 +1,11 @@
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.csprojAssemblyReference.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.csproj.CoreCompileInputs.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.AssemblyInfoInputs.cache
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.AssemblyInfo.cs
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\bin\Debug\netcoreapp2.1\Ülesanne4.deps.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\bin\Debug\netcoreapp2.1\Ülesanne4.runtimeconfig.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\bin\Debug\netcoreapp2.1\Ülesanne4.runtimeconfig.dev.json
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\bin\Debug\netcoreapp2.1\Ülesanne4.dll
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\bin\Debug\netcoreapp2.1\Ülesanne4.pdb
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.dll
+C:\Users\tiina\OneDrive\Tallinna Polütehnikum\Programmeerimise alused - Aleksandr Ivanov\Kodutööd\Kodutöö4\Ülesanne4\Ülesanne4\obj\Debug\netcoreapp2.1\Ülesanne4.pdb
