@@ -1,0 +1,76 @@
+Kodutöö nr 3
+Instructions
+Nr 1. Compare two arrays.
+Write a method which takes two integer arrays of the same length. Method should return an array of integers which values are result of comparison of input arrays using the following rules:
+•	a[i] > b[i], then 1
+•	a[i] == b[i], then 0
+•	a[i] < b[i], then -1
+Possible method signature:
+static int[] CompareArrays(int[] a, int[] b) { ... }
+ 
+Sample input:
+a = [1, 3, 9]
+b = [-2, 6, 9]
+ 
+Expected output:
+[1, -1, 0]
+ 
+Hints: 
+Use for loop to iterate both input arrays and assign values to output arrays.
+http://www.tutorialsteacher.com/csharp/csharp-for-loop
+http://www.tutorialsteacher.com/csharp/array-csharp
+ 
+Nr 2. Diagonal difference.
+Write a method that will sum matrix diagonal values and then calculate absolute difference. 
+ 
+Possible method signature:
+static int DiagonalDifference(int[,] matrix) { ... }
+ 
+Sample input:
+1, 2, 3
+4, 5, 6
+9, 8, 9
+ 
+Expected output:
+2
+ 
+Explanation:
+First diagonal: 1 + 5 + 9 = 15
+Second diagonal: 3 + 5 + 9 = 17
+|15 - 17| = 2
+ 
+Hints:
+Use two-dimensional array for storing matrix. Write down indexes that you need to sum diagonal values and then create a for loop that will generate the needed indexes.
+Use Math class for finding absolute difference.
+http://www.tutorialsteacher.com/csharp/csharp-multi-dimensional-array
+https://docs.microsoft.com/en-us/dotnet/api/system.math?view=netframework-4.7.2
+ 
+Nr 3. Staircase.
+Write a method that prints a staircase of size n. The staircase is right-aligned, composed of # symbols and spaces, and has a height and width of n.
+ 
+Possible method signature:
+static void Staircase(int n) { ... }
+ 
+Sample input:
+5
+ 
+Expected output (each row must have 5 chars (space or #)):
+        #
+      ##
+    ###
+  ####
+#####
+ 
+Nr 4. Plus minus.
+Write a method that takes an array of integers and prints the fractions of its elements that are positive, negative, and are zeros.
+ 
+Possible method signature:
+static void PlusMinus(int[] arr) { ... }
+ 
+Sample input:
+[-1, 3, -9, 5, 0]
+ 
+Expected output:
+Positive: 0.4
+Negative: 0.4
+Zero: 0.2

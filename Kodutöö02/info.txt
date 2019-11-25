@@ -1,0 +1,22 @@
+Kodutöö nr 2
+Instructions
+Instructions
+Write the method that finds the minimum value of the array of integers.
+Inputs:     
+•	Array of integers. Example: [2, 75, 3, 15] 
+Example output:      
+  Min number in array: 2
+ 
+Write the method that finds the index of an element in array of integers.
+Inputs:      
+•	Array of integers. Example: [2, 75, 3, 15]
+•	Integer value to search in array. Example: 3
+Example output:     
+  The index of '3' in array is 2.
+ 
+Write the method that finds the average value of the array of integers.
+Inputs:     
+•	Array of integers. Example: [2, 75, 3, 15]
+Example output:      
+  Average value in array: 23.75
+

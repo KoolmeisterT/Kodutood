@@ -1,0 +1,83 @@
+Star Wars API
+ 
+Create a console app that will allow to search Star Wars characters and will display in how many films they appeared.
+ 
+Use Star Wars Open API: https://swapi.co/
+For characters search use the following URL: https://swapi.co/api/people/?search=TODO (replace TODO with search term).
+Try to call this API and check the response structure. Create appropriate classes so you will be able to deserialize API JSON.
+ 
+Example 1:
+Please enter character name:
+> luke
+Luke Skywalker appeared in 5 films
+ 
+Example 2:
+Please enter character name:
+> lu
+Luke Skywalker appeared in 5 films
+Luminara Unduli appeared in 2 films
+ 
+JSON deserialization example: https://github.com/eealeivan/tpt/blob/master/csharp/JSON.md
+Installing nuget package: https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui#finding-and-installing-a-package
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

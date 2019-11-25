@@ -1,0 +1,5 @@
+Kooli koridori pikkus on 56 m ning üle on vaja värvida kogu põrand. 22 m värvimiseks kasutati A kg värvi. Kui palju värvi on veel vaja, et värvida koridor lõpuni?
+
+Tükk vasktraati, mille pikkus on A m kaalub 430 gr. Tööks on vaja C meetrit traati. Kas selleks piisab traadirull kaaluga M gr?
+
+Leia nende arvu summa vahemikust 100-200 mis jaguvad 17-ga.
